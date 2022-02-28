@@ -1,0 +1,358 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>King Solomons directory: or, The reformed Catholicks rubricke: shewing a Christian how to demeane and behave himselfe both in prosperity and adversity: / as it was set forth in a sermon at St. Peters Pauls-wharfe, London, July the 8. 1649. By Fran: Riddington, a loyall subject, and long sufferer for fearing God, and honouring the King.</title>
+            <author>Riddington, Francis.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91813</idno>
+            <idno type="STC">Wing R1438</idno>
+            <idno type="STC">Thomason E565_16</idno>
+            <idno type="STC">ESTC R206142</idno>
+            <idno type="EEBO-CITATION">99865320</idno>
+            <idno type="PROQUEST">99865320</idno>
+            <idno type="VID">165273</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91813)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165273)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 87:E565[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>King Solomons directory: or, The reformed Catholicks rubricke: shewing a Christian how to demeane and behave himselfe both in prosperity and adversity: / as it was set forth in a sermon at St. Peters Pauls-wharfe, London, July the 8. 1649. By Fran: Riddington, a loyall subject, and long sufferer for fearing God, and honouring the King.</title>
+                  <author>Riddington, Francis.</author>
+               </titleStmt>
+               <extent>[2], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July. [illegible]".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165273:1" rendition="simple:additions"/>
+            <p>KING <hi>SOLOMONS</hi> DIRECTORY: <hi>OR,</hi> The REFORMED CATHOLICKS RUBRICKE: Shewing a Chriſtian how to demeane and behave himſelfe both in Proſperity and Adverſity: As it was ſet forth in a SERMON at St. <hi>Peters Pauls-wharfe, London, July</hi> the 8. 1649.</p>
+            <p>By FRAN: RIDDINGTON, a loyall Subject, and long Sufferer for fearing GOD, and honouring the KING.</p>
+            <q>
+               <bibl>
+                  <hi>Prov. 24. v. 21, &amp; 22.</hi>
+               </bibl>
+               <p>My Son, feare thou the Lord, and the King: and meddle not with them that are given to change.</p>
+               <p>For their calamity ſhall riſe ſuddenly, and who knoweth the ruine of them both?</p>
+            </q>
+            <p>
+               <hi>LONDON.</hi> Printed in the Yeare, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:165273:2"/>
+            <pb n="1" facs="tcp:165273:2"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ECCLES. 7.</hi> former part of <hi>ver. 14.</hi>
+                  </bibl>
+                  <p>In the day of proſperity be joyfull, but in the day of adverſity conſider.</p>
+               </q>
+            </epigraph>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>O every thing there is a ſeaſon, and a time to every purpoſe under Heaven:</hi> ſaith our Author the preacher at the 3 <hi>Chap.</hi> and firſt <hi>ver.</hi> of this his Booke ſtiled <hi>Eccleſiaſtes.</hi> And amongſt other times, for other things, he tels us at the 4 <hi>ver.</hi> of that <hi>Chap.</hi> how that there are proper and pe<g ref="char:EOLhyphen"/>culiar times for <hi>Mirth</hi> and <hi>mourning; Joy</hi> and <hi>Grief; Sorrow</hi> and <hi>ſolace. There is a time,</hi> ſaith he, <hi>to weep,</hi> and <hi>a time to laugh; a time to mourne, and a time to Dance.</hi> And both theſe times for both theſe purpoſes, are apart expreſt, and particularly applied in the words of my Text.</p>
+            <p>The time of Mirth and Muſick, of gladneſſe and rejoycing, is the time of Gods revealing his Mercies unto us, and beſtowing his bleſſings favours, and benefits upon us; the Day of proſperity as it is here termed in the Text, wherein we are admoniſhed and exhorted to be joyfull. <hi>In the Day of proſperity be joyfull.</hi>
+            </p>
+            <p>The time of weeping and mourning, of lamentation and ſorrow, is the time of Gods denouncing his Judgments againſt us, or executing them upon us, and afflicting us with Warres, Famine, Peſtilence, or ſuch like Calamities; the Day of Adver<g ref="char:EOLhyphen"/>ſity as it is here alſo termed, wherein we are commanded to con<g ref="char:EOLhyphen"/>ſider; <hi>In the Day of adverſity conſider. In the day of proſperity</hi> &amp;c.</p>
+            <p>In the words there is no ſuch great difficulty as that I ſhould neede to trouble you with much variety of ſenſes and expoſi<g ref="char:EOLhyphen"/>tions: yet are they not ſo very facile and eaſie neither to every
+<pb n="2" facs="tcp:165273:3"/>capacity as that they may fully be underſtood without, as well as with, this ſhort paraphraſe and explanation.</p>
+            <p>
+               <hi>In the day of proſperity be joyfull</hi>] that is, enjoy thy portion of bleſſings with cheerfulneſſe.</p>
+            <p>
+               <hi>In the day of Adverſity conſider</hi>] that is, be well adviſed, fall not to impatient murmuring, or ungodly ſhifting, but ſtay thy ſelfe in expectation on God.</p>
+            <p>
+               <hi>In the day of proſperity</hi>] when thy affaires be proſperous, thy ſucceſſe (in juſt undertakings) happy: when it goes well with thee, thy <hi>King,</hi> and <hi>Country,</hi> be joyfull and merry. <hi>But in the day of Adverſity</hi>] in the time of any private or common calamity <hi>conſider,</hi> bethink thy ſelfe of the <hi>cauſe,</hi> and of the <hi>cure</hi> of that diſaſter. Conſider wherefore it is inflicted, and how it may be removed.</p>
+            <p>Uſe proſperity and adverſity to the ends appointed by God unto thee: and be thou a conſtant and conſcionable obſerver of the Churches both Feaſts and Faſts. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Rom. 12.15. <hi>Rejoyce with them that rejoyce, and weep with them that weep.</hi>
+            </p>
+            <p>
+               <hi>In the day of Proſperity</hi> ſend up joyfull acclamations to the high Court of heaven, in teſtimony of thy thankfulneſſe for thoſe free and undeſerved favours and bleſſings which thou doſt en<g ref="char:EOLhyphen"/>joy.</p>
+            <p>
+               <hi>In the day of Adverſity</hi> ſend up ſtrong cryes, and preſent thy Supplications before the mercie-ſeat of Gods offended Majeſtie, in token of thy repentance and contrition. <hi>In the day of proſperity be joyfull, but in the day of adverſity conſider.</hi>
+            </p>
+            <p>So that my Text, I may terme the Schoole of a religious de<g ref="char:EOLhyphen"/>portment. In it, that great Maſter of all Arts and Sciences, that learned Doctor in all Profeſſions, <hi>Sol hominum Solomon,</hi> that Mirrour of Men, Wiſdomes eldeſt ſonne, reades all his Scholars a Lecture of <hi>Divine Morality,</hi> or <hi>Morall Divinity,</hi> (if I may ſo ſay) teaching and inſtructing them, what their manner of behavi<g ref="char:EOLhyphen"/>our muſt be at all times, and ſo what it muſt and ought to be at this preſent: how we ought to demeane and behave our ſelves now and alwayes.</p>
+            <p>
+               <pb n="3" facs="tcp:165273:3"/>
+In it we have
+<list>
+                  <item>
+                     <hi>Oppoſitio &amp; mutatio temporum.</hi>
+                  </item>
+                  <item>
+                     <hi>Oppoſitio &amp; mutatio tonorum.</hi>
+                  </item>
+               </list>
+            </p>
+            <list>
+               <item>An oppoſition and change of Times.</item>
+               <item>An oppoſition and change of Tunes.</item>
+            </list>
+            <p>And this latter fitted to the former, the tune to the time, the duty and ditty to the day.</p>
+            <p>Weeping, Mourning, Sighing, Sobbing, and the like ſad ex<g ref="char:EOLhyphen"/>preſſions of a ſorrowfull ſpirit, are as unſeaſonable, and unſeemly at a Feaſt, and on <hi>the day of proſperity,</hi> as unneceſſary eating drink<g ref="char:EOLhyphen"/>ing, laughing, playing, dycing, dancing, and their like are at a Paſt, and <hi>in the day of adverſity.</hi> And therefore our Author the Preacher, the wiſeſt of men, King <hi>Solomon,</hi> where he tells us of different <hi>times,</hi> there alſo he tells us of the different <hi>tunes</hi> that we are to obſerve and keep in thoſe <hi>times.</hi> As in my Text.</p>
+            <p>Where we have two ſeverall and <hi>oppoſite dayes; The day of proſperity,</hi> and <hi>the day of adverſity.</hi>
+            </p>
+            <p>There alſo we have the ſeverall and <hi>Appoſite</hi> buſineſſe of them both.</p>
+            <p>
+               <hi>Joy</hi> of the former, <hi>Conſideration</hi> of the latter. <hi>In the day of proſperity be joyfull, but in the day of adverſity conſider.</hi>
+            </p>
+            <p>Which of theſe dayes, <hi>This day</hi> is, is eaſie (you will not deny) to determine. It is well knowne far and neare, that we of this Nation have nothing to doe <hi>this day,</hi> with the firſt day in the Text, <hi>the day of proſperity;</hi> theſe are not <hi>dayes and times</hi> where<g ref="char:EOLhyphen"/>in it goes well with us, our King, and Country, and therefore not <hi>dayes and times</hi> wherein to be ſo frollick, joyfull and merry. We, as if we had liv'd too long, have our-liv'd <hi>that day;</hi> and God he onely knowes, whether we ſhall ever ſee it againe be<g ref="char:EOLhyphen"/>fore we die. <hi>O if we had known, even we, at leaſt in that our day, the things which belong'd unto our peace! but now,</hi> ah now, <hi>Quid niſi vota ſuperſunt?</hi> what remains ſaving only prayers, that they be not <hi>hid from our eyes?</hi> As our Saviour ſaid of <hi>Jeruſalem,</hi> be<g ref="char:EOLhyphen"/>moning, and propheſying its deſtruction. <hi>Luk.</hi> 19.42.</p>
+            <p>
+               <hi>This day,</hi> every <hi>day</hi> that now goes over our heads, is <hi>Hezekiahs
+<pb n="4" facs="tcp:165273:4"/>day,</hi> ſuch another <hi>day</hi> as that <hi>day.</hi> 2. Kings. 19.3. A <hi>day of trou<g ref="char:EOLhyphen"/>ble, and of rebuke, and of blaſphemy: for the Children are come to the birth, and there is not ſtrength to bring forth.</hi> Such are the pangs of this <hi>Sin-ſick-land,</hi> as of a woman in travaile, where the <hi>poore Infant</hi> is altogether unable to deliver it ſelfe, and the <hi>pained Mother</hi> to be delivered of it. Such another <hi>day</hi> as the Prophet <hi>Ezekiell</hi> ſets forth with an <hi>Ecce</hi> at the 7 <hi>Chap.</hi> and 10. <hi>ver.</hi> of that his propheſy. <hi>Behold the day, behold, it is come, the morning is gone forth, the rod hath bloſomed, pride hath budded, violence is riſen up into a rod of wickedneſſe.</hi> Or ſuch a <hi>day</hi> as the Prophet <hi>Zephaniah</hi> ſpeaks of at the firſt <hi>Chap.</hi> of his propheſy, 15. and following verſes, <hi>A day of wrath, a day of trouble and diſtreſſe, a day of waſtueſſe and deſolation, a day of darkneſſe and gloomineſſe, a day of clouds and thick darkneſſe. A day of the Trumpet and Alarme</hi> &amp;c. <hi>Wherein the Lord hath brought diſtreſſe upon us, that we walke like blind men, becauſe we have ſinned againſt the Lord, and our blood is poured out as duſt, and our fleſh as the dung</hi> &amp;c. A <hi>day</hi> wherein we may take up the Prophet <hi>Jeremiahs</hi> wiſh, and cry out with him, <hi>Oh that our head were waters, and our eyes a foun<g ref="char:EOLhyphen"/>taine of teares, that we might weep day and night for the ſlaine of the daughter of our people. Jer.</hi> 9.1. and make uſe of his <hi>Lamen<g ref="char:EOLhyphen"/>tations</hi> as too ſutable to our times, with ſome alterations, but more aggravations: <hi>Our</hi> JOSIAH, <hi>the breath of our Noſtrils, the Anointed of the Lord, being taken in the pit of his owne ſworn Subjects, who ought to have filled it up with their own Carcaſſes, (had they known any ſuch to have been dug for him) rather then he ſhould have fallen into it. But his Counſellours turned Conſpiratours,</hi> and THEY, THEY <hi>took away his life, who for its preſervation</hi> OUGHT <hi>both by the Laws of God and man to have Sacrific'd their own.</hi> Such a Viperous brood the Sun never before ſaw, neither did the Earth ever bear. <hi>Iugratitude</hi> ſublimated, and <hi>Barbarity</hi> ſpun to the fi<g ref="char:EOLhyphen"/>neſt thred of <hi>Cruelty,</hi>
+               <note place="margin">Lam. 4.20.</note> that ever Mortallity was guilty of. <hi>The breath of our Noſtrils, the Anointed of the Lord was taken in their pits, of whom we ſaid, under his ſhadow we ſhall live.</hi>
+            </p>
+            <q>
+               <l>—Ct jam maerentia tecta<note place="margin">Lucan.</note>
+               </l>
+               <l>Caeſar habet vacuáſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> domos, legéſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſilentes.</l>
+            </q>
+            <p>
+               <pb n="5" facs="tcp:165273:4"/>
+Yes, and now <hi>Servants rule over us;</hi> nay more, <hi>our Servants;</hi> and yet more, <hi>our confeſſed and profeſſed Servants at the ſame time that they rule over us:</hi> THEY, THEY <hi>rule over us, and there is none that doth deliver us out of their hands.</hi>
+               <note place="margin">Lam. 5.3.</note> Such is our preſent condition, and worſe, and worſe <hi>indeed</hi> then I am able in <hi>words</hi> to expreſſe. Such a <hi>day</hi> is this <hi>day,</hi> and every <hi>day</hi> that we now adde unto our dayes: A diſmall, dolefull <hi>day;</hi> a <hi>day</hi> of diſtreſſe, and of perplexity, and of treading down: the laſt <hi>day</hi> in the Text, <hi>the day of adverſity, A day to conſider in. In the day of adverſity conſider.</hi>
+            </p>
+            <p>
+               <hi>Conſideration</hi> is never out of ſeaſon, and yet never more in then now. We may, or we <hi>might</hi> have made uſe of it at other times for the prevention of Judgements threatned. Now at this time we may make uſe of it for the removall of Judgements inflicted: <hi>yea,</hi> we may at preſent make uſe of it for both purpo<g ref="char:EOLhyphen"/>ſes, both for the prevention of thoſe we fear, as the <hi>extirpation of Gods true Religion, the ſubverſion of the Engliſh Monarchy, a fa<g ref="char:EOLhyphen"/>mine both of ſoul and body. In a word utter deſolation, and deſtructi<g ref="char:EOLhyphen"/>on of theſe late famous and renowned Kingdomes. As alſo for the re<g ref="char:EOLhyphen"/>movall of thoſe innumerable and inſupportable evills which we feele by meanes of this horrid, unnaturall, and accurſed Rebellion.</hi>
+            </p>
+            <p>Now theſe Judgments of God, both preſent, and imminent, both theſe that we feel, and thoſe that we fear, ſpeak aloud, and tell us in plaine termes, that it is high time for us to be advis'd and <hi>Conſider.</hi>
+            </p>
+            <p>To <hi>Conſider</hi> what may be the <hi>Cauſe,</hi> and what the <hi>Cure</hi> of the great and many diſtempers, that make us thus miſerable as we are. And in the ſearch of the ſeverall kinds of cauſes we may finde, that the <hi>Efficient</hi> cauſe is God, the <hi>Materiall</hi> finne, the <hi>Finall</hi> repentance, as for the <hi>Formall</hi> we wave it.</p>
+            <p>They proceed from God, procur'd by ſin, and inflicted to the end we ſhould repent and amend.</p>
+            <p>And ſo this conſideration affords us this point of inſtruction, this doctrinall concluſion, that</p>
+            <p>
+               <hi>Gods indignation mov'd againſt ſinne calls for our repentance.</hi>
+            </p>
+            <p>In the ſecond place, after we have conſidered the cauſe of theſe ſpreading evills, we are to bethink our ſelves of the cure, and the remedy we may finde upon eaſie enquiry to be <hi>Humili<g ref="char:EOLhyphen"/>ation;</hi> and <hi>Reformation.</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:165273:5"/>
+               <hi>Humiliation under the mighty hand of God, Reformation of our evill lives, and corrupt Converſations.</hi>
+            </p>
+            <p>And from hence ariſeth this obſervation, that</p>
+            <p>
+               <hi>Humiliation and Reformation are the onely meanes to pacifie Gods indignation, and to remove our afflictions.</hi> Thus in this <hi>day of adverſity</hi> are we to <hi>conſider:</hi>
+            </p>
+            <p>But before I proceed to treat of theſe Conſiderations; give me leave to interpoſe, and put in one by the way, 'tis this, and not altogether (I hope) unworthy of your obſervation:</p>
+            <p>
+               <hi>That neither Proſperity, nor Adverſity, are for perpetuity; No, not of any conſiderable permanency, duration, or continu<g ref="char:EOLhyphen"/>ance. They laſt both of them but a very little while, they are but for a day, the day of Proſperity, and the day of Ad<g ref="char:EOLhyphen"/>verſity, or time ſhort as a day, ſo ſhort are they.</hi>
+            </p>
+            <p>What would not man do ſhould he alwayes proſper? And what would he doe if never? What an elated meteor would he grow, did <hi>proſperity</hi> alwayes beſprinkle him with her ſweetning dews? what a dejected clod of clay would he turne to, ſhould ſhe never ſmile upon him, but <hi>adverſity</hi> continually frown in his face? 'tis no ſmall abatement to the ſweetneſſe of <hi>proſperity,</hi> and bitterneſſe of <hi>adverſity</hi> to <hi>Conſider,</hi> they are but for a moment.</p>
+            <p>Was I to day happy, I might be miſerable before to morrow! and indeed how happy were we but the other day, when all things were at peace and quiet to what we now are? or how happy are many of us yet to what we might have been, may be, yea ſhall be, if theſe times continue? <hi>Pax eſt omne bonum,</hi> ſaith Saint <hi>Auſtin:</hi> and if ſo, what can we expect from diviſion and diſſention? if peace be ſo ſoveraigne a bleſſing, what a croſſe, or rather curſe is War? eſpecially ſuch a War as this of ours, a moſt uncivill Civill Warre, the worſt of all Wars. A moſt unnaturall Warre, a War betwixt the Head and the Members, a Warre of the Members againſt the Head, a Warre wherein, and whereby the Members have cut off their Head. <hi>Chams Curſe, and Cains Mark</hi> be all the reward of the Authors; let this branded Cha<g ref="char:EOLhyphen"/>racter remaine upon them and their poſterity for ever, <hi>Vagi &amp; profugi in terris,</hi> Gen. 4.12. <hi>Fugitives and Vagabonds let them be in the earth.</hi> S. <hi>Bernard</hi> diſtinguiſheth of <hi>Pacidices</hi> and <hi>Pacifices;</hi>
+               <pb n="7" facs="tcp:165273:5"/>ſuch as in the Pſalmiſts expreſſion in words ſpake of peace, but in deed make ready to battel: <hi>Which ſpeak friendly to their neighbors, but imagine miſchief in their hearts, Pſal.</hi> 28.3. and have we not many ſuch <hi>fire-brands</hi> of contention in theſe Kingdomes? When <hi>Cataline</hi> had fired the City of <hi>Room</hi> with his Conſpiracies, he had no better Comfort then this,</p>
+            <q>Incendium meum ruinâ extinguam!</q>
+            <p>I will quench the fire I have kindled with a finall ruine; I will adde worſe to evill, and leave the ſucceſſe of my miſchievous and ungracious actions to the extreameſt adventures I and have we not ſome of his brood, who have fired 3. of the moſt peaceable Kingdomes in Chriſtendome? <hi>Imò habemus tales Catulos Cati<g ref="char:EOLhyphen"/>linarios:</hi> We have but too many whelps of that litter, and you know where. Yet theſe wars, no more then this warfare of our life can laſt alwaies, <hi>dabit Deus his quoque finem,</hi> God in his good time will put a period to them, and there will (we may hope) ere long come a day of refreſhing: for <hi>the Lord will not caſt off for ever,</hi> Lam. 3.31. <hi>But though he cauſe grief, yet will be have compaſſion according to the multitude of his mercies.</hi>
+            </p>
+            <p>
+               <hi>Adverſity</hi> no more then <hi>proſperity</hi> is everlaſting; were either of them ſo, there would be no heaven or no hell hereafter; if both, there would be neither: but there is both, both a heaven and a hell, <hi>Mat.</hi> 25. at the latter end, and <hi>proſperity</hi> and <hi>adverſity</hi> are here both but for a while, for a <hi>day</hi> or ſo and away; <hi>In the day of proſperity, and in the day of adverſity.</hi>
+            </p>
+            <p>And this Conſideration, that Neither <hi>proſperity</hi> nor <hi>adver<g ref="char:EOLhyphen"/>ſity,</hi> are for perpetuity, nor of any Conſiderable per<g ref="char:EOLhyphen"/>manency, duration or Continuance; that they are both but for a very little while, for a <hi>day,</hi> or time ſhort as a <hi>day,</hi> may humble us, and may Comfort us.</p>
+            <p>Conſider firſt, That <hi>Proſperity is but for a day, and be humbled.</hi> Conſider ſecondly <hi>That Adverſity is but for a day, and be comforted.</hi>
+            </p>
+            <p>Why ſhould <hi>proſperity</hi> which is but for a day make any one Proud, Lordly, and Stately? <hi>Wilt thou ſet thine eyes upon that which is not? ſaith Solomon.</hi> Who had more to boaſt of then any man, either before or ſince his time, as you may read <hi>Eccleſ.</hi> 2.9. <hi>wilt thou ſet thine eyes upon that which is not? for Riches certainly
+<pb n="8" facs="tcp:165273:6"/>make themſelves wings, they flee away as an Eagle towards heaven, Prov.</hi> 23.5. he that is this day, thy and my inferiour, may to Morrow or next day be our Superiour; for both he may riſe and we may Fall; either will ſuffice to ſet him above us, and bring it to who would have thought this? the examples and in<g ref="char:EOLhyphen"/>ſtances of this nature are ſo many and ready at hand, that it is a buſineſſe for me to make choice of them: only in the Lump, let me ask, have you not of late ſeen many and ſtrange alterations in diverſe antient and Noble Families, yea of Townes alſo and Cities? <hi>have you not ſeene Folly ſet in great Dignity, and the rich ſit in low place, Servants upon Horſes, and Princes walking as Ser<g ref="char:EOLhyphen"/>vants upon the Earth! Solomon</hi> obſerved it in his time, Eccleſi<g ref="char:EOLhyphen"/>aſtes 10.16. and 17. <hi>ver.</hi> and we may (if we pleaſe) much more in ours.</p>
+            <q>
+               <l>Quos dies vidit veniens ſuperbes,</l>
+               <l>Hos dies vidit fugiens jacentes.</l>
+            </q>
+            <q>
+               <l>One <hi>Day</hi> the Valiant brood of <hi>Brutus</hi> ſent to fight;</l>
+               <l>Thus ſent, one <hi>Day</hi> did ſee them all lie dead e're night.</l>
+            </q>
+            <p>And how many brave and hopefull branches, have in ſome one <hi>Day</hi> been lopt off by prepoſterous, and bloudy hands, ſince the breaking forth of this inteſtine and deteſtable rebellion? <hi>Yea</hi> and how many more may poſſibly be deſtroyed by the <hi>undiſtinguiſhing</hi> bullet, and <hi>non-ſparing</hi> ſword, before this <hi>all-Devouring</hi> warre be ended, and a firme peace in theſe yet blee<g ref="char:EOLhyphen"/>ding Kingdomes ſetled? Oh I <hi>tremble</hi> to ſpeak it! <hi>How have ſome amongſt us in one day ſtopt their owne breath, and taken off his head who was ours?</hi> Like the foole in the Embleme, who being in a tree, ſawed off the bow on the which he ſate. And are not mens fortunes, and eſtates, in as much hazard and as little ſecu<g ref="char:EOLhyphen"/>rity, as their lives and Liberties? The Grounds, Houſes, Lands, Leaſes, Livings, and the like, which now many of you call yours (if there be any ſuch things as <hi>meum &amp; tuum,</hi> as property left) they (you know) have had many a one, and many another which called them theirs; and may be ſoon again rent from you or your Poſterity, by ſome concuſſion, change, or prodigall heirs.
+<pb n="9" facs="tcp:165273:6"/>
+               <hi>Yea</hi> how many mens eſtates and revenues, are at this preſent by <hi>force, and fraud</hi> detained from them, ſo that they reap little or no benefit by them? When <hi>Craeſus</hi> glorying in his great riches, led <hi>Solon</hi> into his treaſury, and ſhewed him all his wealth, think<g ref="char:EOLhyphen"/>ing thereby to extort not onely a bare applauſe and Commen<g ref="char:EOLhyphen"/>dation, but even wonder and admiration; the wiſe man ſlighted, what the fond King ſo much adored, and (if my memory fail me not) to this purpoſe replyed. <hi>He that hath better Iron, will ſoone be Maſter of all thy Gold.</hi> And it was not very long after, that this rich King proved his poore friends words true by wofull ex<g ref="char:EOLhyphen"/>perience, another King being a better Warriour, or more fortu<g ref="char:EOLhyphen"/>nate Souldier, taking from him all his treaſure. And who will not ſubſcribe this with a <hi>probatum eſt,</hi> that knows the proceedings of theſe times? Wherein not <hi>He</hi> that hath moſt <hi>right,</hi> but <hi>they</hi> that have moſt <hi>might</hi> carry the prize away. See <hi>Nebuchadnezar</hi> proudly walking and vanting in his ſtately and new erected palace, and in the height of his Pride puft up with <hi>Proſperity,</hi> de<g ref="char:EOLhyphen"/>manding, <hi>is not this great Babilon that I have built for the houſe of the Kingdome, by the Might of my power, and for the honour of my Majeſty? Dan.</hi> 4.30. And ſee him once within an houre ex<g ref="char:EOLhyphen"/>pelled thence, yea Driven from the ſociety of men, and made a companion for beaſts, and then tell me (if you know) what a <hi>Day</hi> may bring forth? Such ſtrange alterations may <hi>one day</hi> pro<g ref="char:EOLhyphen"/>duce, that he who is <hi>this Day</hi> the higheſt in this worlds blandiſh<g ref="char:EOLhyphen"/>ments, may or ever the Sun ſalute the Eaſt againe, be as low, as low may be, in another worlds torments. <hi>Thou foole, this Night ſhall thy ſoule be required of thee, and then whoſe ſhall thoſe things be, which thou haſt provided?</hi> Was, beſides the exprobation, and objurgation, an unwelcome intimation, and prediction, of a moſt ſtrange and ſudden change; and muſt needs ſtrike cold to his heart (you will ſay) who was at this with himſelfe; <hi>Soule, thou haſt much good laid up for many years, take thine eaſe, Eate, Drinke and be Merry, Luke</hi> 12.19.</p>
+            <p>O <hi>Conſider</hi> then of this all ye that are troubled with the <hi>tym<g ref="char:EOLhyphen"/>pany</hi> of pride, through a little worldly <hi>Proſperity;</hi> all ye that are therefore proud becauſe ye proſper in this world, and as ſome Tranſlations read my Text, <hi>
+                  <g ref="char:V">Ʋ</g>ſe well the time of Proſperity, and remember the time of Misfortune.</hi>
+            </p>
+            <q>
+               <pb n="10" facs="tcp:165273:7"/>
+               <l>—Scilicet ultima ſemper</l>
+               <l>Expectanda dies homini eſt: dici<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>beatus</l>
+               <l>Ante obitum nemo, ſuprema<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> funera debet.</l>
+            </q>
+            <p>You know not what may happen before the night of your life come, ſome that have beene borne in a palace have died in a dungeon. <hi>Hear ye and give eare, be not proud, for the Lord hath ſpoken. Jer.</hi> 13.15. <hi>For the day of the Lord of Hoaſts ſhall be upon every one that is proud and lofty, and upon every one that is lifted up, and he ſhall be brought low.</hi>
+               <note place="margin">Eſay 2.12.</note> 
+               <hi>Proſperity</hi> is but for a day, let this therefore even in the height of thy <hi>Proſperity</hi> humble thee.</p>
+            <p>Neither ſecondly is <hi>adverſity</hi> for any more, for any longer then a <hi>Day,</hi> and this may comfort us in our miſerie.</p>
+            <q>Saeva noverca dies nunc eſt, nunc mater amica.</q>
+            <p>
+               <hi>Heavineſſe may indure for a night, but Joy commeth in the Mor<g ref="char:EOLhyphen"/>ning, Pſal.</hi> 30.5. and a good <hi>Day</hi> may make amends for an ill night; I may after an ill fit be the better for it: Why then ſhould I ſit diſconſolate under ſo ſhort a vexation?</p>
+            <q>Nubecula eſt &amp; tranſibit!</q>
+            <p>It is but a little ſhower, it will ſoone blow over; though it wet me a little, it cannot drowne me. Many a faire afternoone followes a foule morning. There is a certaine and continuall viciſſitude, and interchange of day and night, of light and dark<g ref="char:EOLhyphen"/>neſſe; and ſhall I <hi>in adverſity</hi> deſpaire of ever being happy? <hi>It is good that a man ſhould both hope and quietly waite for the Sal<g ref="char:EOLhyphen"/>vation of the Lord, Lam.</hi> 3.26. and ſhall I chooſe the evill, and refuſe the good? not hope, not waite for the ſalvation of my God? The ſame that brings down high looks, <hi>will ſave the afflict<g ref="char:EOLhyphen"/>ed people, Pſal.</hi> 18.27.</p>
+            <p>
+               <hi>O carry then the Lords leaſure, be ſtrong, and he ſhall comfort thine heart, and put thou thy truſt in the Lord, Pſal.</hi> 27 <hi>laſt.</hi> Was I in the duſt, or which is worſe, on the Dunghill; there was no rea<g ref="char:EOLhyphen"/>ſon I ſhould count my ſelfe a caſt-away; ſome that have beene taken from thence have beene <hi>ſet among Princes, and made to in<g ref="char:EOLhyphen"/>herit the throne of glory,</hi> 1 <hi>Sam.</hi> 2.8. and if it be not my fortune here, it will be, if it be not my fault, hereafter. <hi>For our light affliction which is but for a moment, worketh for us a farre more ex<g ref="char:EOLhyphen"/>ceeding and eternall weight of glory,</hi> 2 Cor. 4.17. <hi>for which cauſe we faint not, but though our outward man periſh, yet the inward man is re<g ref="char:EOLhyphen"/>newed
+<pb n="11" facs="tcp:165273:7"/>day by day: While we look not at the things which are ſeen, but at the things which are not ſeen; for the things which are ſeen are tem<g ref="char:EOLhyphen"/>porall, but the things which are not ſeen are eternall. Adverſity</hi> is but for a <hi>day;</hi> let this therefore comfort thee in the depth of miſery.</p>
+            <p>Theſe things premiſed; we come now to handle the two maine things conſiderable in this <hi>day of adverſity;</hi> namely, the <hi>cauſe,</hi> and the <hi>cure</hi> of the great and many diſtempers that make us thus miſerable as we are.</p>
+            <p>And as for the <hi>cauſe,</hi> the efficient (I have ſhewed you) is God: the materiall, Sin: the finall, repentance: as for the for<g ref="char:EOLhyphen"/>mall, I told you, we would wave it for the preſent.</p>
+            <p>The evills which we feele proceed from God, procured by Sin, and inflicted to the end we ſhould repent and amend. And ſo this conſideration affords us this point of Inſtruction, That <hi>Gods indignation moved againſt ſinne, calls for our Repentance.</hi>
+            </p>
+            <p>In the ſecond place, the <hi>cure,</hi> we have found upon enquiry to be Humiliation and Reformation.</p>
+            <q>
+               <l>Humiliation under the mighty hand of God.</l>
+               <l>Reformation of our evill lives, and corrupt converſations.</l>
+            </q>
+            <p>And from hence ariſeth this Obſervation, That</p>
+            <p>
+               <hi>Humiliation and Reformation are the onely meanes to pa<g ref="char:EOLhyphen"/>cifie Gods indignation, and to remove our afflictions.</hi>
+            </p>
+            <p>And theſe are the things which we are chiefly <hi>in this day of ad<g ref="char:EOLhyphen"/>verſity to conſider.</hi> Of which in their order, as briefly and plainly as poſſibly may be: and firſt of the firſt, the <hi>cauſe</hi> of the evils under which we now ſuffer. God, Sin, Repentance, God the efficient, ſin the materiall, repentance the finall, they proceed from God, procur'd by ſin, and inflicted to the end we ſhould repent and amend.</p>
+            <p>
+               <hi>Gods indignation moved againſt ſinne, calls for our Repentance.</hi>
+            </p>
+            <p>
+               <hi>Micah</hi> 6.9. <hi>The Lords voice cryeth unto the City, and the man of wiſdome ſhall ſee thy name: Hear ye the rod and who hath appoint<g ref="char:EOLhyphen"/>ed it.</hi> As our ſins cry to God for Judgments, ſo his Judgments cry to us for repentance. <hi>Thus ſaith the Lord to the men of Judah and inhabitants of Jeruſalem,</hi> Jer. 18.11. <hi>behold, I frame evill a<g ref="char:EOLhyphen"/>gainſt you, and deviſe a device againſt you, returne ye now every one fro<g ref="char:cmbAbbrStroke">̄</g> his evill way, and make your wayes and your doings good. Repent and turne your ſelves from all your tranſgreſſions, ſo Iniquity ſhall not be your ruine, Ezek.</hi> 18.30.</p>
+            <p>
+               <pb n="12" facs="tcp:165273:8"/>
+What ever evills we ſuffer under, God is the author of them all, <hi>Lam.</hi> 3.37. <hi>Who is he that ſaith, and it commeth to paſſe when the Lord commandeth it not? out of the mouth of the moſt high pre<g ref="char:EOLhyphen"/>proceedeth not evill and good? yes doubtleſſe, evill as well as good proceeds from God.</hi> But here we muſt diſtinguiſh of <hi>Malum poena,</hi> and <hi>Malum culpae,</hi> the former is from God, and the latter from Man. No evill of puniſhment but from him, nor any but for the evill of Sin. Sinne is the procurer of all our woe. Woe, woe unto us, but why? becauſe we have finned, <hi>Lam.</hi> 5.16. <hi>Woe unto us that we have ſinned; for this our heart is faint, for theſe things our eyes are dim, ver.</hi> 17. All would be well without us, were all well within us: <hi>From whence come warres and fightings among you? come they not hence, even of your lusts that war in your members? Jam.</hi> 4.1. caſt but theſe with <hi>Jonah</hi> over-board, and the ſea of our world which now worketh, and is tempeſtuous, will forth with ceaſe her raging, and be calme. Sinne with <hi>Acha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> is it that troubles all, let us but take away this accurſed thing from amongſt us, and God will turne from the feirceneſſe of his anger, and returne in mercy to the many thouſands of his people. The REBELLIONS are ſtrengthned againſt us, yea, triumph over us, <hi>but how?</hi> by our multiplyed <hi>rebellions</hi> a<g ref="char:EOLhyphen"/>gainſt our God; let us but make our peace with him, and he will ſoone make them to be at peace with us. <hi>When a mans wayes pleaſe the Lord, he maketh even his enemies to be at peace with him, Prov.</hi> 16.7. We have tranſgreſſed, and we have re<g ref="char:EOLhyphen"/>belled, and the Lord hath not pardoned, but puniſhed us with many and ſore evils; yet (we muſt believe) all for our good, for our converſion, not for our confuſion; for he hath no pleaſure at all that the wicked ſhould die, but that he ſhould returne from his wayes and live, <hi>Ezek.</hi> 18.23. <hi>Have I any pleaſure at all that the wicked ſhould die, ſaith the Lord God, and not that he ſhould re<g ref="char:EOLhyphen"/>turne from his wayes and live?</hi> No, the Lord our God deſires ra<g ref="char:EOLhyphen"/>ther our life and ſalvation, then our death and damnation; he hath no pleaſure at all in this latter, but delights much in the former: <hi>yea, there is joy amongst his Angels in Heaven, over one ſinner that repenteth, Luke</hi> 15.10.</p>
+            <p>Give me leave then (I beſeech you) to apply this that I have ſpoken, with the words of <hi>Tertullian</hi> in his tract of repentance.
+<pb n="13" facs="tcp:165273:8"/>
+               <hi>Bonum eſt poenitere, an non? quid revolvis? Deus precipit. At enim ille non precipit tantum, ſed etiam hortatur. Invitat praemio ſa<g ref="char:EOLhyphen"/>lutem, jurans, etiam vivo dicens, cupit credi ſibi.</hi> Tell me, is it good to repent or not? what doſt thou ſtudy of? God commands thee ſo to doe; nay more, he doth not onely command, but perſwades, and exhorts thee alſo: he invites thee to Heaven with a promiſe of a reward, ſwearing as he lives, that he deſires thy ſalvation, and he would have thee to beleeve him. <hi>As I live ſaith the Lord God, I have no pleaſure in the death of the wicked, but that the wicked turn from his way, and live: turn ye, turn ye from your evill wayes, for why will ye die O ye houſe of</hi> Iſrael? <hi>Ezek.</hi> 33.11.</p>
+            <p>
+               <hi>O beatos nos quorum cauſa Deus jurat. O miſerrimos fi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nec juranti Domino credimus:</hi> as the Father beforenamed hath it in the place before cited. O happy and bleſſed are we, for whoſe ſake God ſwears; O moſt miſerable and wretched if we will not believe him ſwearing: and if we doe believe him, then let us repent our ſelves of our ſinnes, and returne unto him. Every ſinne is an errour, <hi>Nonne errant omnes?</hi> Prov. 14.22. <hi>Do they not erre that deviſe evill?</hi> We fall and ſtray, <hi>peceardo,</hi> by ſinning; we muſt riſe and return <hi>poenitend<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> by repenting. It is not the falling, but the not riſing, not our ſinning, but our not repenting that undoes us. <hi>Perpetuity and impenitency</hi> in ſinne makes ſin out of meaſure ſinful, and renders the actors uncapable of a pardon. As all Gods promiſes paſs <hi>ſub conditione obedientiae,</hi> on condition of obedience; ſo all his threatnings, <hi>Sub condititione impenitentia,</hi> under the con<g ref="char:EOLhyphen"/>dition of impenitency. If a righteous man revolt, he ſhall die for it, notwithſtanding all Gods promiſes: and if a wicked man repent he ſhall live, notwithſtanding all Gods menaces: You may ſee this clearly evidenced in that 33. Chapter of the Pro<g ref="char:EOLhyphen"/>pheſie of <hi>Ezekiel,</hi> at the 13. and following Verſes. <hi>When I ſhall ſay to the righteous, that he ſhall ſurely live; if be truſt to his own righteouſneſſe and co<g ref="char:cmbAbbrStroke">̄</g>mit iniquity, all his righteouſneſſe ſhall not be remembred; but for his iniquity that he hath committed he ſhall die for it. Againe, when I ſay unto the wicked, thou ſhalt ſurely die, if he turne from his ſinne, and doe that which is lawfull and right, be ſhall ſurely live, he ſhall not die.</hi> What can be ſaid more fully, more plainly, or more punctually? wherefore if we deſire
+<pb n="14" facs="tcp:165273:9"/>rather to live then to dye, to proſper then to periſh, let us re<g ref="char:EOLhyphen"/>pent our ſelves of our iniquities, and returne unto the Lord our God. who is ready to receive and embrace us in the armes of his mercie. <hi>Eſa.</hi> 55.7. <hi>Let the wicked, &amp;c.</hi>
+            </p>
+            <p>Repentance is nothing elſe but <hi>redire ad principia,</hi> to return to him whom we have left by ſinne. And the practice of this duty conſiſteth in theſe two things. Humiliation and reformation; hu<g ref="char:EOLhyphen"/>miliation under the mighty hand of God, reformation of our evil lives and corrupt converſations, which are the <hi>cure</hi> of the great and many diſtempers that make us thus miſerable as we are.</p>
+            <p>Humiliation and reformation are the onely meanes to pacifie Gods indignation, and to remove our afflictions; and this is the thing which we are in this <hi>day of adverſity to conſider;</hi> and my laſt obſervation, which I ſhall diſpatch in a word.</p>
+            <p>Humiliation and Reformation have for theſe eight yeares and upward beene the common talke of the times. But what hath beene done in them? why indeed <hi>ſi verbis audacia detur,</hi> ſuch things as never were done before. That hath been done, <hi>Quod nulla poſteritas probet, quod nulla taceat;</hi> Which poſterity can nei<g ref="char:EOLhyphen"/>ther approve, nor conceale; no nor all Antiquity parallel. Ile give you caſes as near as I can to ours; we have had <hi>daies of Hu<g ref="char:EOLhyphen"/>miliation</hi> wherein many men have faſted, but as we reade <hi>Iſa.</hi> 58.4. <hi>For ſtrife, and debate; and to ſmite with the fiſt of wickedneſſe, &amp;c. and humbled</hi> themſelves, but as it is <hi>Pſal.</hi> 10.10. <hi>That the poore might fall by their ſtrong ones.</hi> And ſuch a <hi>Reformation</hi> we have as <hi>Nebuzaradan Captaine of the guard to Nebuchadnezer made at Jeruſalem,</hi> 2 <hi>Kings.</hi> 25. When he threw downe the walls both of City and Temple, and tooke away all the veſſels of Gold and Silver, &amp;c. And how ſhould it be better when <hi>the Devill of Rebellion hath turned himſelfe into this Angell of Reforma<g ref="char:EOLhyphen"/>tion? and the old Serpent held out new lights, to lead his followers into outer Darkneſſe.</hi> But to have done with theſe, who have un<g ref="char:EOLhyphen"/>done us All.</p>
+            <p>The <hi>Humiliation</hi> which I am to ſpeake to, and of, is a true ſelfe dejection, joyned with the confeſſion of ſinne, contrition for ſinne, and an earneſt deſire of pardon.</p>
+            <p>And as for <hi>Reformation,</hi> it is a converſion from ſinne, a change of all bad actions into good.</p>
+            <p>
+               <pb n="15" facs="tcp:165273:9"/>
+The former duty is thus performed. A man touched with the ſenſe of his miſery, humbly caſteth himſelfe downe before the mercy ſeate of Gods offended Majeſty, con<g ref="char:EOLhyphen"/>feſſeth from a ſorrowfull heart his forepaſt ſins, condem<g ref="char:EOLhyphen"/>neth himſelfe for the ſame, and earneſtly entreateth par<g ref="char:EOLhyphen"/>don, and forgiveneſſe of them at the hands of God for the merits of Chriſt.</p>
+            <p>The latter thus. A man perceiving his errour and folly, corrects and amends what ever is amiſſe in him; ſets himſelf in the right way, and proceeds, and goes on in all vertue, of godlineſſe of living.</p>
+            <p>And let every one of us but thus <hi>humble,</hi> and thus <hi>reforme</hi> himſelfe, and ſurely then the controverſie which God hath with us all is ended, and a peace concluded: for confirmation of which aſſertion the whole current of Scripture is ſo clear, and the Cha<g ref="char:EOLhyphen"/>racter ſo obvious, that he that runs may read. I ſhall therefore quote but two to avoide prolixity; and what need I more? when <hi>In Scripturis non ſaepius dicta, ſed tantum dicta ſufficiant.</hi> Any one materiall Text will ſerve to prove any one tenet to them that believe the Scripture. 1. Then for <hi>Humiliation,</hi> take that of Saint <hi>James,</hi> at his 4. Chapter, and 10. Verſe, <hi>Humble your ſelves in the fight of the Lord, and he ſhall life you up:</hi> doe you but performe the duty of <hi>Humiliation,</hi> and God will con<g ref="char:EOLhyphen"/>ferre upon you the dignity of <hi>exaltation.</hi>
+            </p>
+            <p>And as for <hi>Reformation,</hi> ſee thee 1. of <hi>Eſay,</hi> at the 16. <hi>Verſe,</hi> where we have this document no leſſe conſolatory then conſo<g ref="char:EOLhyphen"/>nant. <hi>Waſh ye, make ye clean, put away the evill of your doings from before mine eyes, ceaſe to do evill, learn to do well, &amp;c. and then come, and let us reaſon together ſaith the Lord: though your ſinnes be as ſcarlet, they ſhall be as white as ſnow; though they be red like crim<g ref="char:EOLhyphen"/>ſon, they ſhall be as wool. If ye be willing and obedient, ye ſhall eat the good of the Land: If ye will reforme</hi> your ſelves you ſhall be received to mercy, no queſtion to the contrary! but if ye will not, if ye refuſe and <hi>rebell,</hi> ye may read your deſtiny in the next Verſe, the 20. of that 1. of <hi>Eſay, ye ſhall be devoured with the ſword: for the mouth of the Lord hath ſpoken it.</hi> And if the mouth of the Lord hath ſaid it, the hand of the Lord wil do it. For <hi>nec ver<g ref="char:EOLhyphen"/>bum ab intentione quia veritas, nec factum à verbo quia virtus,</hi> ſaith
+<pb n="16" facs="tcp:165273:10"/>Saint <hi>Bernard.</hi> With God neither doth his Word diſagree, &amp;c.</p>
+            <p>Let then ſo many of us as believe in God, as believe his Word, obey him, and doe as we are commanded. <hi>Humble, and Re<g ref="char:EOLhyphen"/>forme</hi> our ſelves; confeſſe, and forſake our ſinnes, correct and amend what ever is amiſſe in us; redeeme the time we have vainly ſpent, and work out our ſalvation with fear and trem<g ref="char:EOLhyphen"/>bling: <hi>Fear God, honour our King, and love as Brethren,</hi> and then we need never fear what man can doe unto us, <hi>Luke</hi> 12.4, 5.</p>
+            <p>Let all of us in the fear of God in this <hi>day,</hi> the latter <hi>day: the day of Adverſity thus conſider,</hi> and God, it may be, may be intreated, and once againe reſtore unto us the <hi>former day, the day of Proſpe<g ref="char:EOLhyphen"/>rity,</hi> wherein we may lawfully, yea muſt, and ought, thankfully to be <hi>joyfull</hi> and merry. To which purpoſe let us pray.</p>
+            <p>
+               <note place="margin">This Prayer was omitted, becauſe the Glaſs was run, and the Seaſon then almoſt as hot as theſe 8. years perſecuti<g ref="char:EOLhyphen"/>on; but being it was really in<g ref="char:EOLhyphen"/>tended, it is therefore here verbatim inſer<g ref="char:EOLhyphen"/>ted.</note>O <hi>Lord God of Hoſts, God of the ſpirits of all Fleſh, who for a long time haſt ſorely afflicted us with the</hi> devouring <hi>ſcourge of a moſt unnaturall War: And in the</hi> depth <hi>of thy diſpleaſure haſt ſuf<g ref="char:EOLhyphen"/>fered us to proceed to that</hi> height <hi>of impiety, as unſatisfied with the bloud of our fellow-members, to cut off</hi> Him <hi>who was our</hi> Head; <hi>and to take away</hi> His Life, <hi>for the preſervation whereof, we ought all of us both by the</hi> Lawes of God and Man <hi>to have ſacrificed our own. O Lord, we do confeſſe that we be even aſtoniſhed, and confounded with the apprehenſion of our moſt</hi> ſinfull, <hi>and moſt</hi> miſerable <hi>condition. O</hi> who can lay his hands on the Lords Anointed, and be guilt<g ref="char:EOLhyphen"/>leſſe? <hi>Had</hi> He <hi>been a</hi> Saul, <hi>and His Subjects</hi> Davids! <hi>Had</hi> He <hi>beene</hi> rejected, <hi>and</hi> they elected! <hi>They Righteous, and</hi> He <hi>Wick<g ref="char:EOLhyphen"/>ed! yet had they ſinned againſt their own Soules, and been guilty of the</hi> higheſt Treaſon <hi>for defiling their hands with the</hi> Bloud of their Soveraigne. <hi>Of how much greater condemnation doth this</hi> ſinfull Land <hi>ſtand guilty, who have laid hands upon a</hi> David, <hi>and are themſelves</hi> Shimea's and Shebaes; <hi>who have ſlaine a</hi> moſt pious, prudent, and peaceable Prince, <hi>and are themſelves a</hi> moſt perfi<g ref="char:EOLhyphen"/>dious, rebellious, and wicked People. Yea, and to fill up the meaſure of our iniquity, <hi>that their might be nothing wanting to make our ſinne compleat; we have uſurpt thy Authority, who art the</hi> onely Judge of Kings, <hi>and committed this horrid Murther un<g ref="char:EOLhyphen"/>der the ſpecious colour of</hi> Juſtice. <hi>We have (if we may make uſe of</hi>
+               <pb n="17" facs="tcp:165273:10"/>His owne <hi>Expreſſions</hi>) added the mockery of Juſtice, to the cruelty of Malice: <hi>So that, now we may ſeeme even ripe for de<g ref="char:EOLhyphen"/>ſtruction, and thou mayeſt juſtly thruſt in thy ſickle, and cut us down, deſtroy us, root and branch as in</hi> one day, <hi>and lay our Land waſte into a</hi> Wilderneſſe, <hi>or give it unto</hi> Strangers <hi>to be inhabited. Thou mayſt ſweep us away with the beeſome of Deſtruction, and give us our portion with the Devil and his Angels, as</hi> the worſt of Hipo<g ref="char:EOLhyphen"/>crites, <hi>in the</hi> hotteſt place <hi>of that Lake which burns with Fire and Brimſtone.</hi>
+            </p>
+            <p>
+               <hi>But Lord in Judgment, we humbly beſeech thee, to remember mercy;</hi> and thou that takeſt no delight in the Death of one ſingle ſinner, <hi>ſpare mercifull Lord, ſpare a</hi> great, <hi>though moſt</hi> ſinfull <hi>Nation. Pity a</hi> deſpiſed Church and diſtracted State; <hi>heal up thoſe Wounds which our</hi> ſins <hi>have made ſo</hi> wide, <hi>that none but thine owne hands can cloſe them; and in the tenderneſſe of thy un<g ref="char:EOLhyphen"/>ſpeakable compaſſion, ſet up</hi> the Sunne <hi>in</hi> his Fathers Throne, <hi>that he may reſtore thy worſhip, ſettle Peace, and purge the Land of the Guilt of that</hi> innocent, Loyall, yea ROYALL blood, <hi>wherewith it is Defiled, which cries aloud for</hi> Vengeance <hi>in thine ears. O Lay not this ſin of</hi> bloud-guiltineſſe, <hi>unto the charge of this whole Nation, which is committed by the</hi> hands of a handfull, <hi>in compariſon, to the whole! Neither let the</hi> Cry <hi>of that</hi> horrid murther <hi>committed upon the</hi> Perſon of thine Anointed, <hi>by thoſe who have graſpt all power into their hands,</hi> out-cry the cry <hi>of their prayers whoſe</hi> Loyall hearts <hi>abhorre the very</hi> thought <hi>of ſuch a</hi> Heinous, Treaſonable, Dam<g ref="char:EOLhyphen"/>nable <hi>fact, and mourne in ſecret for it. O Let it pity thee to ſee ſo flouriſhing a Church and State, as this but lately was, to be thus rent and torne in pieces by a rude rabble of</hi> Seditious, Sacrilegious, Re<g ref="char:EOLhyphen"/>bellious, Trayterous <hi>Men, who have embrued their hands in the bloud of</hi> King, Prieſt, <hi>and</hi> People: <hi>Who have</hi> Uſurpt all authority, trampled upon all Religion, Violated all our Lawes, infring'd all our liberties, and deſtroy'd our properties, and Father all their impieties upon thee, <hi>becauſe for our</hi> ſins <hi>thou ſuffereſt</hi> ſucceſſe <hi>to attend their</hi> actions, <hi>which have neither</hi> warrant, <hi>nor</hi> preſident <hi>in thy</hi> Word. <hi>But Lord we beſeech thee for Jeſus Chriſt his ſake to be reconciled unto us, to pardon our ſins, and heale our Land, which for its tranſgreſſions hath many</hi> Princes, yea Servants <hi>that</hi> rule <hi>over it: And give us</hi> Him thy Servant, our true, and rightfull
+<pb n="18" facs="tcp:165273:11"/>Soveraigne CHARLES, Sonne and Heyre to his deceaſed Fa<g ref="char:EOLunhyphen"/>ther, to be our King, maugre all the power, and malice, of thine, his, and our inhumane, barbarous, and bloud thirſty enemies; <hi>Ariſe O Lord, maintaine thine owne cauſe, Remember how the Ad<g ref="char:EOLhyphen"/>verſary hath blaſphemed thy</hi> Name, <hi>profaned thy</hi> holy places, <hi>Mur<g ref="char:EOLhyphen"/>dered</hi> thine Anointed, <hi>butchered</hi> his Subjects, <hi>and now gee about to diſinherit</hi> his poſterity, <hi>and convert a well-tempered</hi> Monarchy, <hi>into a popular</hi> Anarchy. This thou haſt ſeen O Lord, and becauſe thou holdeſt thy tongue, they think wickedly, that thou art even ſuch a one as their ſelves, but doe thou reprove them, and ſee be<g ref="char:EOLhyphen"/>fore them the things which they have done. <hi>That thou maiſt take the matter into thy hands, the</hi> poore commiteth himſelf unto thee, O be thou the helper of the friendleſſe, <hi>and breake the power of the ungodly and malicious.</hi>
+            </p>
+            <p>Infatuate their Councells and divide them; Infeeble their forces and Diſperſe them; Impale their hearts, weaken their hands, and command Salvation and deliverance for thy Church, the King, and his people; <hi>That thy</hi> worſhip <hi>may be reſtored, Thine</hi> ANOINTED <hi>inthroned, and Truth, and Peace</hi> re-eſtabliſhed <hi>in all our Borders; and that for his ſake, who is the</hi> Prince <hi>of peace, and that ſhed his moſt precious blood to purchaſe our peace, even</hi> Jeſus Chriſt <hi>the righteous, To whom with thee, and the bleſſed Spirit, be aſcribed as is most due, All Honour, Power, Praiſe, might, Majeſty, Dominion and thanksgiving, for ever, and for ever,</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
